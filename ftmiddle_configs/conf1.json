@@ -4,6 +4,6 @@
                 "server_address": "localhost",
                 "serv_port_up": 1680,
                 "serv_port_down": 1680,
-                "listen_port": 16881
+                "listen_port": "replace_listen_port_address"
          }
 }
