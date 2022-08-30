@@ -105,7 +105,7 @@
     "gateway_conf": {
         "gateway_ID": "AA555A0000000000",
         /* change with default server address/ports */
-        "collector_address": "139.59.146.243",
+        "collector_address": "replace_collector_address",
         "server_address": "localhost",
         "serv_port_up": 1680,
         "serv_port_down": 1680,
